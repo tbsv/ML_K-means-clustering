@@ -1,5 +1,7 @@
 # Machine Learning // K-Means Clustering
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tbsv/ML_K-means-clustering/master?filepath=K-means-clustering_solution.ipynb)
+
 ## Data Science / Machine Learning example
 This is Binder-compatible repo with a `requirements.txt` file.
 
